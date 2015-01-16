@@ -1,4 +1,4 @@
-Corpus linguistics regex matching
+Word-based regex matching over a linguistic corpus
 ===========
 
 For a detailed description, please see the project report (report.pdf)
