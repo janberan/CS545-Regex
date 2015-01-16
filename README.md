@@ -1,5 +1,7 @@
-Word-based regex matching
+Corpus linguistics regex matching
 ===========
+
+For a detailed description, please see the project report (report.pdf)
 
 Usage
 -----------
